@@ -1,0 +1,73 @@
+.initial-container-content {
+  padding: 40px;
+  text-align: center;
+  color: #475569;
+  font-size: 26px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.yet-to-register-view {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.yet-to-register-image {
+  width: 80%;
+  padding: 20px;
+}
+.yet-to-register-content {
+  color: #475569;
+  font-size: 22px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.yet-to-register-button {
+  background-color: #0967d2;
+  border: 0px solid;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 15px;
+}
+.registered-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+}
+.registered-icon {
+  width: 15%;
+}
+.registered-content {
+  font-weight: 600;
+  color: #323f4b;
+  font-size: 22px;
+  font-family: 'Roboto';
+}
+.registrations-closed-view {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.registrations-closed-image {
+  width: 80%;
+  padding: 20px;
+}
+.registrations-closed-heading {
+  font-size: 28px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.registrations-closed-content {
+  font-size: 18px;
+  font-family: 'Roboto';
+  text-align: center;
+  color: #323f4b;
+}

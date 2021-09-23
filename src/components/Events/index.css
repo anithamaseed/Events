@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  justify-content: space-between;
+}
+.app-bg-container {
+  min-height: 100vh;
+  background-color: #64748b;
+  width: 60%;
+}
+.app-heading {
+  color: #f8fafc;
+  font-size: 42px;
+  font-family: 'Roboto';
+  margin-left: 45px;
+}
+.events-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.registration-container {
+  width: 40%;
+}
